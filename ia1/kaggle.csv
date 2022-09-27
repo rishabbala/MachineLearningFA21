@@ -1,0 +1,14 @@
+weights,"                                           0
+dummy                               5.298063
+bedrooms                            0.473063
+bathrooms                           0.088958
+sqft_living                         0.103038
+sqft_lot                            0.399377
+...                                      ...
+age_since_renovation*sqft_living15  0.239582
+age_since_renovation*sqft_lot15     0.267683
+age_since_renovation*month          0.387521
+age_since_renovation*day           -0.110301
+age_since_renovation*year           0.499257
+
+[485 rows x 1 columns]"

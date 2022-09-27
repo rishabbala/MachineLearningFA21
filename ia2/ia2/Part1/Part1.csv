@@ -1,0 +1,23 @@
+weights,"                                0
+Previously_Insured       2.212278
+Vehicle_Damage           1.851492
+Driving_License          1.203679
+Policy_Sales_Channel_78  0.983048
+Policy_Sales_Channel_37  0.977445"
+Average weight,1.4455
+,
+weights,"                                0
+Previously_Insured       2.184518
+Vehicle_Damage           1.754571
+dummy                    1.228644
+Policy_Sales_Channel_20  0.894057
+Policy_Sales_Channel_64  0.887815"
+Average Weight,1.38988
+,
+weights,"                                 0
+Vehicle_Damage            1.580687
+Previously_Insured        1.496561
+dummy                     0.980942
+Policy_Sales_Channel_26   0.454201
+Policy_Sales_Channel_152  0.420518"
+Average Weight,0.98655

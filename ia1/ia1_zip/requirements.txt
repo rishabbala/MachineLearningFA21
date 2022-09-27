@@ -1,0 +1,14 @@
+Activate python virtual env
+
+Tested on Babylon with:
+    Python 3.6.8
+    Pandas
+    Csv
+    Numpy
+    Matplotlib
+
+To run the code for :
+    Part 1. python3 ./ia1.py
+         2. python3 ./ia1_no_normalization.py
+         3. python3 ./redundancy.py
+         4. python3 ./kaggle.py
